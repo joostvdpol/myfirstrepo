@@ -1,0 +1,19 @@
+Testing (junit, findbugs, concordion)
+Early returns
+Stateless
+Immutable
+Patterns: Singleton
+Patterns: Strategy (+ enum)
+Extends vs implements (composition)
+Dependency injection
+REST, service, json
+Framework: Spring
+Framework: Hibernate
+Project structuur: Domain driven design, FP (guava), layered architecture
+-SCRUM
+javadoc
+API design
+Postgres
+
+refactoring
+XP
